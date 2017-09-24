@@ -5,5 +5,6 @@ package net.kusnadi.rtnetapps.config;
  */
 
 public class AppConfig {
-    public static final int SPLASH_TIME_OUT = 5000;
+    public static final int SPLASH_TIME_OUT = 3000;
+    public static final String API_URL = "http://192.168.8.103:9999/";
 }
